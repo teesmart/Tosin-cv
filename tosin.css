@@ -46,4 +46,18 @@ color: brown;}
 color:black;
 text-align:center;
 font-style:italic;}
+input[type=text],input[type=password],input[type=E-mail]
+{width:20%;
+border:2px solid red;
+border-radius:4px;
+height:10%;
+}
+
+textarea{width:20%;
+border:2px solid red;
+border-radius:4px;}
+ input[type=submit]{height:10%;
+border:2px solid red;
+border-radius:4px;}
+
 
